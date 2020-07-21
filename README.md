@@ -16,8 +16,8 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 ## 3º Passo:
 ## `Efetuar o clone do projeto`
 
-## 3º Passo
-### `npm start`
+## 4º Passo
+## `npm start`
 
 # DEPENDÊNCIAS
     "axios": "^0.19.2",
