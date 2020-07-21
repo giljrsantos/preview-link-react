@@ -14,10 +14,10 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 ## 2º Passo:
 `cd <nomedoprojeto>`
 ## 3º Passo:
-## `Efetuar o clone do projeto`
+`Efetuar o clone do projeto`
 
 ## 4º Passo
-## `npm start`
+`npm start`
 
 # DEPENDÊNCIAS
     "axios": "^0.19.2",
